@@ -2,13 +2,13 @@
     {
         "device_id": "c6b8a0110cf99ba6",
         "key": "Engine021",
-        "expirydate": "15-03-2026",
+        "expirydate": "1-03-2026",
         "Allowoffline": true
     },
     {
         "device_id": "c6b8a0110cf99ba6",
         "key": "Engine021",
-        "expirydate": "15-06-2026",
+        "expirydate": "1-06-2026",
         "Allowoffline": false
     },
     
@@ -16,6 +16,6 @@
     {
         "device_id": "c6b8a0110cf99ba6",
         "key": "Engine021",
-        "expirydate": "15-03-2026",
+        "expirydate": "1-03-2026",
         "Allowoffline": false
     }
