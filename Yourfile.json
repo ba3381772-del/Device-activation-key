@@ -1,24 +1,24 @@
 [
     {   "device_id": "c6b8a0110cf99ba6",   
         "key": "luffypool-24-EhyRW",
-        "expirydate": "5-04-2026",
+        "expirydate": "10-04-2026",
         "Allowoffline": true
     },
     {
         "device_id": "99c1a4cc9a0caad7",
         "key": "luffypool-24-EhyR3",
-        "expirydate": "5-04-2026",
+        "expirydate": "11-04-2026",
         "Allowoffline": false
         
         "device_id": "99c1a4cc9a0caad7",
         "key": "luffypool-24-EhyR3",
-        "expirydate": "5-04-2026",
+        "expirydate": "11-04-2026",
         "Allowoffline": false
     },
     
 ]
     {   "device_id": "c6b8a0110cf99ba6",
         "key": "luffypool-24-EhyRW",
-        "expirydate": "5-04-2026",
+        "expirydate": "10-04-2026",
         "Allowoffline": false
     }
