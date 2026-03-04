@@ -1,20 +1,19 @@
 [
-    {
-        "key": "PK_FREE_1D_1FE48CF89c",
-        "expirydate": "14-03-2026",
+    {    "device_id": "c6b8a0110cf99ba6",   
+        "key": "luffypool-24-EhyRW",
+        "expirydate": "1-03-2026",
         "Allowoffline": true
     },
     {
-        
-        "key": "PK_FREE_1D_1FE48CF89c",
-        "expirydate": "14-06-2026",
+         "device_id": "c6b8a0110cf99ba6",
+        "key": "luffypool-24-EhyRW",
+        "expirydate": "1-06-2026",
         "Allowoffline": false
     },
     
 ]
-    {
-
-        "key": "PK_FREE_1D_1FE48CF89c",
-        "expirydate": "14-03-2026",
+    {   "device_id": "c6b8a0110cf99ba6",
+        "key": "luffypool-24-EhyRW",
+        "expirydate": "1-03-2026",
         "Allowoffline": false
     }
