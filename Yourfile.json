@@ -1,8 +1,4 @@
-[
-    {   "device_id": "device id",   
-        "key": "key",
-        "expirydate": "10-04-2024",
-        "Allowoffline": true
+
     },
     {
         "device_id": "99c1a4cc9a0caad7",
@@ -13,7 +9,7 @@
     
 ]
     {   "device_id": "c6b8a0110cf99ba6",
-        "key": "luffypool-24-EhyRW",
-        "expirydate": "10-04-2026",
+        "key": "Bishal mods",
+        "expirydate": "11-04-2026",
         "Allowoffline": false
     }
