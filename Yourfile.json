@@ -1,28 +1,18 @@
 [
     {
-        "device_id": "c6b8a0110cf99ba6",
-        "key": "laoda pand",
-        "expirydate": "15-05-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c6b8a0110cf99ba6",
-        "key": "laoda pand",
-        "expirydate": "15-05-2026",
-        "Allowoffline": false
-    }
-]
-[
-    {
         "device_id": "99c1a4cc9a0caad7",
-        "key": "khanki chele",
+        "key": "AIM-X",
         "expirydate": "15-05-2026",
         "Allowoffline": true
     },
     {
         "device_id": "99c1a4cc9a0caad7",
-        "key": "khanki chele",
+        "key": "AIM-X",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     }
 ]
+
+    
+
+
