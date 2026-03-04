@@ -1,6 +1,6 @@
 [
-    {   "device_id": "",   
-        "key": "hhhh",
+    {   "device_id": "device id",   
+        "key": "key",
         "expirydate": "10-04-2024",
         "Allowoffline": true
     },
