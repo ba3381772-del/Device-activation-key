@@ -16,13 +16,13 @@
     {
         "device_id": "99c1a4cc9a0caad7",
         "key": "AIM-X",
-        "expirydate": "31-12-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": true
     },
     {
         "device_id": "99c1a4cc9a0caad7",
         "key": "AIM-X",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     }
 ]
